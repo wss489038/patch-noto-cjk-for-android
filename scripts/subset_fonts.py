@@ -58,12 +58,6 @@ EMOJI_IN_CJK = {
     0x1F23A, # 🈺 SQUARED CJK UNIFIED IDEOGRAPH-55B6
     0x1F250, # 🉐 CIRCLED IDEOGRAPH ADVANTAGE
     0x1F251, # 🉑 CIRCLED IDEOGRAPH ACCEPT
-    0x0302A,
-    0x0302B,
-    0x0302C,
-    0x0302D,
-    0x03031,
-    0x03032,
 }
 
 # Characters we have decided we are doing as emoji-style in Android,
