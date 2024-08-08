@@ -1,0 +1,5 @@
+Font 0: NotoSerifCJKjp-ExtraLight.ttf
+Font 1: NotoSerifCJKkr-ExtraLight.ttf
+Font 2: NotoSerifCJKsc-ExtraLight.ttf
+Font 3: NotoSerifCJKtc-ExtraLight.ttf
+Font 4: NotoSerifCJKhk-ExtraLight.ttf
